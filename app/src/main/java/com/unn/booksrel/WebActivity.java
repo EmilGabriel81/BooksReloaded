@@ -26,7 +26,7 @@ public class WebActivity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true);
 
     }
-
+// test for github
     @Override
     public void onBackPressed() {
         if(webView.canGoBack()){
